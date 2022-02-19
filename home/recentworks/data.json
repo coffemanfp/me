@@ -1,0 +1,45 @@
+[{
+        "id": 0,
+        "name": "YoFio APP",
+        "image": "images/yofio.webp",
+        "url": "career/yofio",
+        "items": [{
+            "name": "Back-End Development"
+        }]
+    },
+    {
+        "id": 1,
+        "name": "Fyld Inc.",
+        "image": "images/fyld.png",
+        "url": "career/fyld",
+        "items": [{
+            "name": "Full-Stack Development"
+        }]
+    },
+    {
+        "id": 2,
+        "name": "Chat",
+        "image": "images/chat.png",
+        "url": "career/chat",
+        "items": [{
+                "name": "Full-Stack Development"
+            },
+            {
+                "name": "Web design"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tenla city",
+        "image": "images/tenla.svg",
+        "url": "career/tenla",
+        "items": [{
+                "name": "Front-End Development"
+            },
+            {
+                "name": "Web design"
+            }
+        ]
+    }
+]
